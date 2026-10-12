@@ -1,0 +1,4 @@
+Cible de l'affiche « 1663308056685 » — générée le 12/10/2026 21:45:26
+
+Dépose TOUS ces fichiers dans experience/target/ de ton projet (remplace les fichiers de même nom).
+Reconnaissance : moyen (15204 points d'accroche, conseillé ≥ 18000).
